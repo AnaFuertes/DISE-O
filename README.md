@@ -1,1 +1,2 @@
-# DISE-O
+# Screenshot
+![](docs/screenshot.png)
